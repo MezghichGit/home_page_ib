@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'ibcgos-frontend-mezghich'
-        IMAGE_TAG = '2.0'
+        IMAGE_TAG = '3.0'
 
         // Remplacer par ton username Docker Hub
         DOCKERHUB_USERNAME = 'aminesip'
